@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: my-first-ros-rclpy-pkg
+Version: 0.0.0
+Summary: ROS2 rclpy basic package for learning
+Home-page: UNKNOWN
+Author: Inseong Paik
+Author-email: ispaik0602@gmail.com
+Maintainer: ispaik06
+Maintainer-email: ispaik0602@gmail.com
+License: TODO: License declaration
+Description: UNKNOWN
+Platform: UNKNOWN

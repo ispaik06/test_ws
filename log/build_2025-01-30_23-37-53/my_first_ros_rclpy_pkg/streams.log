@@ -1,0 +1,24 @@
+[0.354s] Invoking command in '/home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg': PYTHONPATH=/home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data
+[0.496s] running develop
+[0.563s] running egg_info
+[0.563s] creating my_first_ros_rclpy_pkg.egg-info
+[0.563s] writing my_first_ros_rclpy_pkg.egg-info/PKG-INFO
+[0.563s] writing dependency_links to my_first_ros_rclpy_pkg.egg-info/dependency_links.txt
+[0.564s] writing entry points to my_first_ros_rclpy_pkg.egg-info/entry_points.txt
+[0.564s] writing requirements to my_first_ros_rclpy_pkg.egg-info/requires.txt
+[0.564s] writing top-level names to my_first_ros_rclpy_pkg.egg-info/top_level.txt
+[0.564s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.583s] reading manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.583s] writing manifest file 'my_first_ros_rclpy_pkg.egg-info/SOURCES.txt'
+[0.601s] running build_ext
+[0.601s] Creating /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages/site.py
+[0.603s] Creating /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages/my-first-ros-rclpy-pkg.egg-link (link to .)
+[0.603s] 
+[0.603s] Installed /home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg
+[0.603s] running symlink_data
+[0.603s] creating /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/share/ament_index
+[0.604s] creating /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index
+[0.604s] creating /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+[0.604s] symbolically linking /home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/resource/my_first_ros_rclpy_pkg -> /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/share/ament_index/resource_index/packages
+[0.604s] symbolically linking /home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/package.xml -> /home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/share/my_first_ros_rclpy_pkg
+[0.619s] Invoked command in '/home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg' returned '0': PYTHONPATH=/home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ispaik06/test_ws/install/my_first_ros_rclpy_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ispaik06/test_ws/build/my_first_ros_rclpy_pkg/build --no-deps symlink_data
